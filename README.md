@@ -16,18 +16,34 @@ This project demonstrates practical implementation of modern AI engineering conc
 - Multi-document contextual reasoning
 - AI-powered educational workflow design
 
-Built as a full-stack AI application using React, Node.js, Express, and Gemini API.
+Built as a full-stack AI application using React, Node.js, Express, Gemini API, and modern document intelligence workflows.
+
+---
+
+## Live Demo
+
+**Frontend (Netlify):**  
+https://neuraread.netlify.app
+
+**Backend (Render):**  
+https://neuraread-backend.onrender.com
+
+**GitHub Repository:**  
+https://github.com/anujsinghx7/NeuraRead
+
+---
 
 ## Features
 
 - Upload one or multiple PDF documents
 - AI-powered document understanding
 - PDF text extraction and parsing
-- Smart chunking for long documents
-- Embedding + vector search
-- Ask questions from uploaded PDFs
+- Smart semantic chunking for long documents
+- Embedding generation for contextual retrieval
+- Vector similarity search
+- Retrieval-Augmented Question Answering
 - AI-generated summaries
-- Quiz generation
+- Adaptive quiz generation
 - Mind map visualization
 - Multiple study modes
 - Gemini API integration
@@ -45,10 +61,11 @@ Built as a full-stack AI application using React, Node.js, Express, and Gemini A
 ### Backend
 - Node.js
 - Express.js
-- Multer (file upload)
+- Multer
 - PDF parsing
-- Vector storage logic
+- Vector retrieval pipeline
 - Gemini API
+- Embedding workflow
 
 ### Deployment
 - Frontend: Netlify
@@ -116,7 +133,7 @@ npm install
 npm run dev
 ```
 
-Frontend runs on:
+Frontend runs locally on:
 
 ```bash
 http://localhost:5173
@@ -132,7 +149,7 @@ npm install
 npm start
 ```
 
-Backend runs on:
+Backend runs locally on:
 
 ```bash
 http://localhost:5000
@@ -152,14 +169,13 @@ Add:
 
 ```env
 GEMINI_API_KEY=your_api_key_here
+PORT=5000
 ```
 
-If your project uses additional variables:
+Frontend production environment:
 
 ```env
-PORT=5000
-MONGODB_URI=your_database_url
-JWT_SECRET=your_secret
+VITE_API_URL=https://neuraread-backend.onrender.com
 ```
 
 ---
@@ -168,21 +184,15 @@ JWT_SECRET=your_secret
 
 ### Backend (Render)
 
-Settings:
-
 ```bash
 Root Directory: server
 Build Command: npm install
 Start Command: node index.js
 ```
 
-Add environment variables in Render dashboard.
-
 ---
 
 ### Frontend (Netlify)
-
-Settings:
 
 ```bash
 Base Directory: client
@@ -190,17 +200,9 @@ Build Command: npm run build
 Publish Directory: dist
 ```
 
-Environment variable:
-
-```env
-VITE_API_URL=https://your-render-backend-url.onrender.com
-```
-
 ---
 
-## API Usage
-
-Example endpoints:
+## API Endpoints
 
 ### Upload PDF
 
@@ -222,31 +224,13 @@ POST /api/mode
 
 ---
 
-## Live Demo
-
-Frontend:
-
-```bash
-https://your-netlify-link.netlify.app
-```
-
-Backend:
-
-```bash
-https://your-render-link.onrender.com
-```
-
----
-
 ## Author
 
-Anuj Singh
-
-GitHub:
-https://github.com/anujsinghx7
+**Anuj Singh**  
+GitHub: https://github.com/anujsinghx7
 
 ---
 
 ## License
 
-This project is for educational and personal use.
+This project is for educational, learning, and portfolio purposes.
