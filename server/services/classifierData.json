@@ -1,0 +1,321 @@
+[
+  {
+    "text": "artificial intelligence reasoning learning perception decision making intelligent agent",
+    "label": "AI"
+  },
+  {
+    "text": "narrow ai weak ai intelligent system task specific automation chatbot assistant",
+    "label": "AI"
+  },
+  {
+    "text": "general ai strong ai human intelligence adaptation reasoning autonomous system",
+    "label": "AI"
+  },
+  {
+    "text": "problem solving search algorithm state space intelligent agent goal state",
+    "label": "AI"
+  },
+  {
+    "text": "breadth first search bfs queue level order traversal shortest path",
+    "label": "AI"
+  },
+  {
+    "text": "depth first search dfs stack recursive traversal backtracking graph exploration",
+    "label": "AI"
+  },
+  {
+    "text": "heuristic search informed search greedy best first search a star algorithm",
+    "label": "AI"
+  },
+  {
+    "text": "water jug problem state space search puzzle solving artificial intelligence",
+    "label": "AI"
+  },
+  {
+    "text": "machine learning supervised unsupervised reinforcement learning predictive analytics",
+    "label": "ML"
+  },
+  {
+    "text": "linear regression logistic regression classification prediction feature engineering",
+    "label": "ML"
+  },
+  {
+    "text": "decision tree entropy information gain gini index classification model",
+    "label": "ML"
+  },
+  {
+    "text": "random forest ensemble learning bagging boosting machine learning algorithm",
+    "label": "ML"
+  },
+  {
+    "text": "support vector machine svm hyperplane kernel classification margin optimization",
+    "label": "ML"
+  },
+  {
+    "text": "k nearest neighbors knn distance metric lazy learning classifier",
+    "label": "ML"
+  },
+  {
+    "text": "naive bayes conditional probability prior posterior likelihood classifier",
+    "label": "ML"
+  },
+  {
+    "text": "feature scaling normalization standardization training testing overfitting underfitting",
+    "label": "ML"
+  },
+  {
+    "text": "deep learning neural network hidden layer activation function backpropagation",
+    "label": "DL"
+  },
+  {
+    "text": "convolutional neural network cnn image processing object detection feature extraction",
+    "label": "DL"
+  },
+  {
+    "text": "recurrent neural network rnn sequence prediction language model temporal data",
+    "label": "DL"
+  },
+  {
+    "text": "lstm long short term memory sequential learning recurrent architecture",
+    "label": "DL"
+  },
+  {
+    "text": "transformer architecture self attention embeddings tokenization large language model",
+    "label": "DL"
+  },
+  {
+    "text": "gradient descent optimizer adam optimizer loss function epoch batch size",
+    "label": "DL"
+  },
+  {
+    "text": "generative adversarial network gan generator discriminator synthetic image generation",
+    "label": "DL"
+  },
+  {
+    "text": "variational autoencoder latent space probabilistic deep generative model",
+    "label": "DL"
+  },
+  {
+    "text": "sql database primary key foreign key normalization transaction acid properties",
+    "label": "DBMS"
+  },
+  {
+    "text": "relational database schema tuple attribute entity relationship model normalization",
+    "label": "DBMS"
+  },
+  {
+    "text": "mongodb nosql document database collection replication sharding scalability",
+    "label": "DBMS"
+  },
+  {
+    "text": "join query indexing aggregate function group by having database optimization",
+    "label": "DBMS"
+  },
+  {
+    "text": "operating system process thread scheduling deadlock synchronization memory management",
+    "label": "OS"
+  },
+  {
+    "text": "virtual memory paging segmentation cache memory allocation cpu scheduling",
+    "label": "OS"
+  },
+  {
+    "text": "mutex semaphore race condition critical section process synchronization",
+    "label": "OS"
+  },
+  {
+    "text": "tcp ip protocol routing switching packet transmission subnetting networking",
+    "label": "CN"
+  },
+  {
+    "text": "osi model application presentation session transport network data link physical layer",
+    "label": "CN"
+  },
+  {
+    "text": "dns http https firewall vpn network security encryption cryptography",
+    "label": "CN"
+  },
+  {
+    "text": "data structure algorithm recursion stack queue linked list graph tree",
+    "label": "DSA"
+  },
+  {
+    "text": "binary search merge sort quick sort heap sort time complexity",
+    "label": "DSA"
+  },
+  {
+    "text": "dynamic programming memoization tabulation greedy algorithm optimization problems",
+    "label": "DSA"
+  },
+  {
+    "text": "probability statistics mean median variance standard deviation hypothesis testing",
+    "label": "MATH"
+  },
+  {
+    "text": "bayes theorem posterior probability conditional probability prior likelihood evidence",
+    "label": "MATH"
+  },
+  {
+    "text": "linear algebra matrix vector eigenvalue eigenvector determinant calculus",
+    "label": "MATH"
+  },
+  {
+    "text": "prompt engineering zero shot one shot few shot chain of thought",
+    "label": "GENAI"
+  },
+  {
+    "text": "large language model llm transformer token embeddings self attention",
+    "label": "GENAI"
+  },
+  {
+    "text": "chatgpt bert llama palm generative ai text generation foundation model",
+    "label": "GENAI"
+  },
+  {
+    "text": "role based prompt instruction prompt context engineering prompt optimization",
+    "label": "GENAI"
+  },
+  { "text": "java object oriented programming class inheritance polymorphism encapsulation abstraction", "label": "JAVA" },
+  { "text": "java virtual machine bytecode garbage collection jdk jre multithreading", "label": "JAVA" },
+  { "text": "constructor interface method overriding exception handling collections framework", "label": "JAVA" },
+  { "text": "spring boot dependency injection rest api maven microservices", "label": "JAVA" },
+  { "text": "jdbc servlet jsp tomcat session management java web development", "label": "JAVA" },
+
+  { "text": "python scripting automation pandas numpy data analysis machine learning", "label": "PYTHON" },
+  { "text": "python decorators generators lambda functions dictionary list comprehension", "label": "PYTHON" },
+  { "text": "flask django api backend development routing middleware authentication", "label": "PYTHON" },
+  { "text": "python virtual environment pip package management debugging testing", "label": "PYTHON" },
+  { "text": "matplotlib seaborn dataframe visualization statistics python programming", "label": "PYTHON" },
+
+  { "text": "c programming pointers memory allocation structures arrays linked list", "label": "C" },
+  { "text": "malloc calloc free segmentation fault buffer overflow compiler", "label": "C" },
+  { "text": "header files preprocessing recursion dynamic memory file handling", "label": "C" },
+  { "text": "data types loops conditional statements functions variables operators", "label": "C" },
+  { "text": "stack queue pointer arithmetic string manipulation c language", "label": "C" },
+
+  { "text": "cpp object oriented programming operator overloading templates stl", "label": "CPP" },
+  { "text": "vector map set unordered_map priority_queue competitive programming", "label": "CPP" },
+  { "text": "inheritance encapsulation abstraction polymorphism constructor destructor", "label": "CPP" },
+  { "text": "dynamic programming graph algorithms recursion backtracking cpp", "label": "CPP" },
+  { "text": "memory management references smart pointers namespaces lambda expressions", "label": "CPP" },
+
+  { "text": "html css javascript responsive web design frontend development", "label": "WEB" },
+  { "text": "dom manipulation event listener form validation local storage", "label": "WEB" },
+  { "text": "react component props state hooks routing jsx frontend", "label": "WEB" },
+  { "text": "node js express middleware backend api authentication mongodb", "label": "WEB" },
+  { "text": "bootstrap tailwind css flexbox grid media queries animation", "label": "WEB" },
+
+  { "text": "android studio kotlin xml mobile application firebase notifications", "label": "ANDROID" },
+  { "text": "activity fragment intent recycler view sqlite mobile development", "label": "ANDROID" },
+  { "text": "android lifecycle gradle apk emulator jetpack compose", "label": "ANDROID" },
+  { "text": "mobile app ui ux responsive design material components", "label": "ANDROID" },
+  { "text": "firebase authentication realtime database cloud messaging android", "label": "ANDROID" },
+
+  { "text": "software engineering sdlc agile scrum waterfall testing deployment", "label": "SE" },
+  { "text": "requirement analysis feasibility study software maintenance documentation", "label": "SE" },
+  { "text": "unit testing integration testing system testing regression testing", "label": "SE" },
+  { "text": "uml diagrams use case class sequence activity diagram", "label": "SE" },
+  { "text": "version control git github branching merging collaboration workflow", "label": "SE" },
+
+  { "text": "cloud computing virtualization iaas paas saas distributed systems", "label": "CLOUD" },
+  { "text": "amazon web services ec2 s3 lambda cloud deployment", "label": "CLOUD" },
+  { "text": "docker kubernetes container orchestration scalability microservices", "label": "CLOUD" },
+  { "text": "google cloud microsoft azure cloud storage networking", "label": "CLOUD" },
+  { "text": "serverless computing load balancing auto scaling cloud security", "label": "CLOUD" },
+
+  { "text": "cyber security ethical hacking penetration testing malware phishing", "label": "CYBER" },
+  { "text": "encryption decryption cryptography firewall vpn authentication authorization", "label": "CYBER" },
+  { "text": "sql injection cross site scripting ddos attack vulnerability", "label": "CYBER" },
+  { "text": "network security cyber attack antivirus intrusion detection system", "label": "CYBER" },
+  { "text": "public key private key hashing digital signature cybersecurity", "label": "CYBER" },
+
+  { "text": "internet of things sensors actuators raspberry pi arduino", "label": "IOT" },
+  { "text": "smart home embedded systems wireless communication mqtt protocol", "label": "IOT" },
+  { "text": "iot devices cloud integration automation sensor network monitoring", "label": "IOT" },
+  { "text": "microcontroller bluetooth wifi zigbee edge computing internet things", "label": "IOT" },
+  { "text": "industrial iot smart city healthcare wearable devices automation", "label": "IOT" },
+
+  { "text": "blockchain cryptocurrency bitcoin ethereum smart contracts decentralization", "label": "BLOCKCHAIN" },
+  { "text": "distributed ledger proof of work proof of stake", "label": "BLOCKCHAIN" },
+  { "text": "crypto wallet mining blockchain network consensus mechanism", "label": "BLOCKCHAIN" },
+  { "text": "nft web3 decentralized application solidity ethereum blockchain", "label": "BLOCKCHAIN" },
+  { "text": "hashing immutable transaction peer to peer blockchain technology", "label": "BLOCKCHAIN" },
+
+  { "text": "data science data preprocessing feature selection visualization analytics", "label": "DATASCIENCE" },
+  { "text": "exploratory data analysis statistics prediction machine learning", "label": "DATASCIENCE" },
+  { "text": "data cleaning outlier detection correlation regression classification", "label": "DATASCIENCE" },
+  { "text": "business intelligence dashboard reporting insights big data analytics", "label": "DATASCIENCE" },
+  { "text": "pandas numpy matplotlib seaborn sklearn data science", "label": "DATASCIENCE" },
+
+  { "text": "compiler lexical analysis syntax analysis parsing semantic analysis", "label": "COMPILER" },
+  { "text": "token grammar finite automata regular expression parser compiler", "label": "COMPILER" },
+  { "text": "code optimization intermediate code generation symbol table", "label": "COMPILER" },
+  { "text": "top down parser bottom up parser shift reduce parsing", "label": "COMPILER" },
+  { "text": "context free grammar ambiguity compiler design automata theory", "label": "COMPILER" },
+
+  { "text": "computer graphics rendering shading rasterization animation transformation", "label": "CG" },
+  { "text": "2d graphics 3d graphics viewport clipping projection", "label": "CG" },
+  { "text": "open gl texture mapping computer visualization graphics pipeline", "label": "CG" },
+  { "text": "rotation scaling translation bezier curve computer graphics", "label": "CG" },
+  { "text": "ray tracing modeling lighting rendering computer graphics", "label": "CG" },
+
+  { "text": "digital electronics logic gates flip flop multiplexer decoder", "label": "DE" },
+  { "text": "boolean algebra combinational circuit sequential circuit register counter", "label": "DE" },
+  { "text": "adder subtractor k map digital circuit simplification", "label": "DE" },
+  { "text": "microprocessor microcontroller instruction set assembly language electronics", "label": "DE" },
+  { "text": "clock pulse memory register finite state machine digital electronics", "label": "DE" },
+
+  { "text": "discrete mathematics graph theory combinatorics relations functions", "label": "DM" },
+  { "text": "set theory propositional logic predicate logic truth table", "label": "DM" },
+  { "text": "permutation combination recurrence relation mathematical induction", "label": "DM" },
+  { "text": "trees graphs connectivity spanning tree discrete structures", "label": "DM" },
+  { "text": "logic proof contradiction pigeonhole principle discrete mathematics", "label": "DM" },
+
+  { "text": "economics demand supply inflation gdp fiscal policy monetary policy", "label": "ECONOMICS" },
+  { "text": "microeconomics macroeconomics market equilibrium production consumption", "label": "ECONOMICS" },
+  { "text": "banking finance stock market investment economic growth", "label": "ECONOMICS" },
+  { "text": "opportunity cost business economy trade commerce taxation", "label": "ECONOMICS" },
+  { "text": "capitalism socialism public finance economic development international trade", "label": "ECONOMICS" },
+
+  { "text": "physics motion force acceleration velocity momentum energy", "label": "PHYSICS" },
+  { "text": "newton laws gravitation friction work power mechanics", "label": "PHYSICS" },
+  { "text": "electricity magnetism current voltage resistance circuit electromagnetism", "label": "PHYSICS" },
+  { "text": "wave optics sound thermodynamics heat radiation quantum physics", "label": "PHYSICS" },
+  { "text": "nuclear physics relativity kinetic energy potential energy", "label": "PHYSICS" },
+
+  { "text": "chemistry atoms molecules periodic table bonding reaction", "label": "CHEMISTRY" },
+  { "text": "organic chemistry hydrocarbons alcohol aldehyde ketone polymer", "label": "CHEMISTRY" },
+  { "text": "inorganic chemistry acids bases salts equilibrium electrochemistry", "label": "CHEMISTRY" },
+  { "text": "chemical kinetics thermochemistry solution concentration molarity", "label": "CHEMISTRY" },
+  { "text": "covalent bond ionic bond oxidation reduction chemistry", "label": "CHEMISTRY" },
+
+  { "text": "biology cell nucleus mitochondria dna genetics evolution", "label": "BIOLOGY" },
+  { "text": "photosynthesis respiration reproduction ecosystem biodiversity physiology", "label": "BIOLOGY" },
+  { "text": "human anatomy digestive system circulatory system nervous system", "label": "BIOLOGY" },
+  { "text": "microorganisms bacteria virus fungi immunity vaccination biology", "label": "BIOLOGY" },
+  { "text": "protein enzyme chromosome heredity mutation biological science", "label": "BIOLOGY" },
+
+  { "text": "accounting balance sheet assets liabilities income expenses", "label": "ACCOUNTING" },
+  { "text": "financial accounting bookkeeping journal ledger trial balance", "label": "ACCOUNTING" },
+  { "text": "debit credit profit loss taxation auditing finance", "label": "ACCOUNTING" },
+  { "text": "cash flow ratio analysis accounting standards financial reporting", "label": "ACCOUNTING" },
+  { "text": "cost accounting management accounting budgeting inventory accounting", "label": "ACCOUNTING" },
+
+  { "text": "management leadership planning organizing staffing directing controlling", "label": "MANAGEMENT" },
+  { "text": "human resource recruitment motivation teamwork communication management", "label": "MANAGEMENT" },
+  { "text": "business strategy decision making organizational behavior administration", "label": "MANAGEMENT" },
+  { "text": "marketing finance operations project management entrepreneurship", "label": "MANAGEMENT" },
+  { "text": "corporate management productivity performance evaluation strategic planning", "label": "MANAGEMENT" },
+
+  { "text": "english grammar tenses vocabulary comprehension essay communication", "label": "ENGLISH" },
+  { "text": "reading writing speaking listening language literature grammar", "label": "ENGLISH" },
+  { "text": "formal letter report writing presentation public speaking english", "label": "ENGLISH" },
+  { "text": "synonyms antonyms idioms phrases paragraph composition communication skills", "label": "ENGLISH" },
+  { "text": "pronunciation fluency creative writing academic english language", "label": "ENGLISH" },
+
+  { "text": "aptitude quantitative reasoning logical reasoning verbal ability puzzle", "label": "APTITUDE" },
+  { "text": "number system percentage profit loss ratio proportion aptitude", "label": "APTITUDE" },
+  { "text": "time speed distance probability permutation combination logical puzzle", "label": "APTITUDE" },
+  { "text": "coding decoding blood relation seating arrangement aptitude reasoning", "label": "APTITUDE" },
+  { "text": "calendar clock arithmetic progression analytical reasoning aptitude", "label": "APTITUDE" }
+]
